@@ -14,7 +14,7 @@
 | الأداة               | الوظيفة الأساسية                                | الأيقونة                             |
 |----------------------|-----------------------------------------------|--------------------------------------|
 | **Node.js**          | بيئة تشغيل JavaScript لتطوير تطبيقات الخادم    | ![Node.js](https://nodejs.org/favicon.ico) |
-| **Express.js**       | إطار عمل لتطوير تطبيقات الويب باستخدام Node.js | ![Express.js](https://expressjs.com/favicon.ico) |
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 | **MongoDB**          | قاعدة بيانات NoSQL لتخزين البيانات             | ![MongoDB](https://www.mongodb.com/favicon.ico) |
 | **Git**              | التحكم في النسخ وإدارة الكود المصدر            | ![Git](https://git-scm.com/favicon.ico) |
 | **VS Code**          | بيئة تطوير متكاملة لتحرير الكود                | ![VS Code](https://code.visualstudio.com/favicon.ico) |
@@ -24,50 +24,22 @@
 | **Bootstrap**        | إطار عمل لتصميم واجهات المستخدم                | ![Bootstrap](https://getbootstrap.com/favicon.ico) |
 | **Facebook**         | رابط صفحة فيس بوك الخاصة بشركتنا              | ![Facebook](https://www.facebook.com/favicon.ico) |
 
-## الأدوات المستخدمة في تطوير هذا المشروع
+# Tools Used
 
-### 1. **Node.js**
-   - **الوصف**: بيئة تشغيل JavaScript تمكنك من تنفيذ الشيفرة البرمجية على الخادم، مما يسمح بتطوير تطبيقات سريعة وقابلة للتوسع.
-   - **الوظيفة**: تشغل خوادم الويب وتسمح بالتعامل مع التطبيقات القائمة على JavaScript.
+## Frontend Development
+- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+- <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+- <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+- <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+- <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+- <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+- <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 
-### 2. **Express.js**
-   - **الوصف**: إطار عمل لNode.js الذي يساعد في بناء تطبيقات الويب بسرعة ومرونة.
-   - **الوظيفة**: تسهل بناء APIs وتطبيقات الخوادم مع وظائف متعددة.
-
-### 3. **MongoDB**
-   - **الوصف**: قاعدة بيانات NoSQL تستخدم لتخزين البيانات بطريقة مرنة وغير منظمة.
-   - **الوظيفة**: تخزين البيانات المتعلقة بالمستخدمين والمحتوى والعمليات التجارية.
-
-### 4. **Git**
-   - **الوصف**: أداة لإدارة الكود المصدري وتنظيم النسخ.
-   - **الوظيفة**: تتيح لك تتبع التغييرات في الكود وإدارة الإصدار، مما يسهل التعاون بين المطورين.
-
-### 5. **VS Code**
-   - **الوصف**: بيئة تطوير متكاملة توفر العديد من الأدوات الإضافية لتطوير البرمجيات.
-   - **الوظيفة**: تحرير الشيفرة البرمجية وتوفير الدعم لإضافات مختلفة لتحسين الإنتاجية.
-
-### 6. **Docker**
-   - **الوصف**: أداة لإنشاء حاويات لتشغيل التطبيقات بسهولة على أي بيئة.
-   - **الوظيفة**: تتيح تشغيل التطبيقات في بيئات معزولة، مما يسهل نشر التطبيقات عبر أنظمة التشغيل المختلفة.
-
-### 7. **Jira**
-   - **الوصف**: أداة لإدارة المشاريع والمهام.
-   - **الوظيفة**: تخصيص المهام لكل عضو في الفريق وتتبع تقدم المشروع.
-
-### 8. **Slack**
-   - **الوصف**: أداة للتواصل الفوري بين فرق العمل.
-   - **الوظيفة**: تسهيل التواصل داخل الفريق بطرق سريعة وفعالة.
-
-### 9. **Bootstrap**
-   - **الوصف**: إطار عمل لبناء واجهات المستخدم بشكل سريع ومرن.
-   - **الوظيفة**: يساعد في تصميم واجهات المستخدم بسهولة باستخدام مكونات مسبقة.
-
-## تابعنا على فيس بوك
-
-للتواصل مع فريق **Scincael** أو لمتابعة أحدث الأخبار والتحديثات حول مشروعنا، يمكنك زيارة صفحة فيس بوك الخاصة بنا من خلال الرابط التالي:
-
-[**Scincael على فيس بوك**](https://www.facebook.com/Scincael)
-
+## Purchase Link
+- [Buy Now](https://www.facebook.com/Scincael)
 ## كيفية البدء
 
 1. **الخطوة 1**: قم بتثبيت Node.js و npm.
