@@ -1,3 +1,22 @@
+# الأدوات المستخدمة في تطوير النظام
+
+## قواعد البيانات وأدوات نظام ERP
+
+| Tool | Description | Icon |
+|------|-------------|------|
+| **Node.js** | بيئة تشغيل JavaScript لبناء التطبيقات الموزعة | ![Node.js](https://nodejs.org/favicon.ico) |
+| **MongoDB** | قاعدة بيانات NoSQL لتخزين البيانات | ![MongoDB](https://www.mongodb.com/favicon.ico) |
+| **Git** | نظام التحكم في النسخ وإدارة الكود المصدر | ![Git](https://git-scm.com/favicon.ico) |
+| **VS Code** | بيئة تطوير متكاملة لتحرير الكود | ![VS Code](https://code.visualstudio.com/favicon.ico) |
+| **Docker** | أداة لإنشاء وتشغيل الحاويات لتوزيع البرمجيات | ![Docker](https://www.docker.com/favicon.ico) |
+| **Jira** | أداة لإدارة المشاريع والمهام | ![Jira](https://www.atlassian.com/favicon.ico) |
+| **Slack** | أداة للتواصل الفوري بين الفرق | ![Slack](https://slack.com/favicon.ico) |
+| **Bootstrap** | إطار عمل لتصميم واجهات المستخدم | ![Bootstrap](https://getbootstrap.com/favicon.ico) |
+| **Facebook** | رابط صفحة فيس بوك الخاصة بشركتنا | ![Facebook](https://www.facebook.com/favicon.ico) |
+
+## رابط الشراء
+[شراء الآن](https://www.facebook.com/sciencael/)
+
 ## Tools Used
 
 | Tool | Description | Icon |
