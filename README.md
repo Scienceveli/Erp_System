@@ -1,28 +1,20 @@
+## Tools Used
 
-# مشروع ERP System
+| Tool | Description | Icon |
+|------|-------------|------|
+| **Node.js** | JavaScript runtime for building scalable network applications | ![Node.js](https://nodejs.org/favicon.ico) |
+| **Express.js** | Web application framework for Node.js | ![Express.js](https://expressjs.com/favicon.ico) |
+| **MongoDB** | NoSQL database for storing data | ![MongoDB](https://www.mongodb.com/favicon.ico) |
+| **Git** | Version control system for code management | ![Git](https://git-scm.com/favicon.ico) |
+| **VS Code** | Integrated development environment for editing code | ![VS Code](https://code.visualstudio.com/favicon.ico) |
+| **Docker** | Tool for creating and running containers for software distribution | ![Docker](https://www.docker.com/favicon.ico) |
+| **Jira** | Project and task management tool | ![Jira](https://www.atlassian.com/favicon.ico) |
+| **Slack** | Instant messaging and communication tool for teams | ![Slack](https://slack.com/favicon.ico) |
+| **Bootstrap** | Framework for building responsive web interfaces | ![Bootstrap](https://getbootstrap.com/favicon.ico) |
+| **Facebook** | Link to our company Facebook page | ![Facebook](https://www.facebook.com/favicon.ico) |
 
-## مقدمة
-
-مرحبًا بكم في مشروع **ERP System** الذي يهدف إلى توفير أدوات ومزايا لإدارة العمليات التجارية بكفاءة. يحتوي هذا المشروع على مجموعة متنوعة من الأدوات التي تساعد في تحسين الأداء، وتسهيل الإدارة، وتحقيق أقصى استفادة من الموارد المتاحة. 
-
-تم تطوير هذا النظام بواسطة **Scincael**، شركة مبتكرة في مجال تكنولوجيا المعلومات.
-
-## الأدوات المستخدمة
-
-تتضمن الأدوات المستخدمة في هذا المشروع مجموعة من التقنيات والبرمجيات المتقدمة. يمكنك الاطلاع على جميع الأدوات في الجدول أدناه:
-
-| الأداة               | الوظيفة الأساسية                                | الأيقونة                             |
-|----------------------|-----------------------------------------------|--------------------------------------|
-| **Node.js**          | بيئة تشغيل JavaScript لتطوير تطبيقات الخادم    | ![Node.js](https://nodejs.org/favicon.ico) |
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-| **MongoDB**          | قاعدة بيانات NoSQL لتخزين البيانات             | ![MongoDB](https://www.mongodb.com/favicon.ico) |
-| **Git**              | التحكم في النسخ وإدارة الكود المصدر            | ![Git](https://git-scm.com/favicon.ico) |
-| **VS Code**          | بيئة تطوير متكاملة لتحرير الكود                | ![VS Code](https://code.visualstudio.com/favicon.ico) |
-| **Docker**           | أداة لإنشاء وتشغيل الحاويات لتوزيع البرمجيات     | ![Docker](https://www.docker.com/favicon.ico) |
-| **Jira**             | أداة لإدارة المشاريع والمهام                   | ![Jira](https://www.atlassian.com/favicon.ico) |
-| **Slack**            | أداة للتواصل الفوري بين الفرق                  | ![Slack](https://slack.com/favicon.ico) |
-| **Bootstrap**        | إطار عمل لتصميم واجهات المستخدم                | ![Bootstrap](https://getbootstrap.com/favicon.ico) |
-| **Facebook**         | رابط صفحة فيس بوك الخاصة بشركتنا              | ![Facebook](https://www.facebook.com/favicon.ico) |
+## Purchase Link
+[Buy Now](https://www.facebook.com/Scincael)
 
 # Tools Used
 
