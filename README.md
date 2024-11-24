@@ -3,7 +3,6 @@
 | Tool | Description | Icon |
 |------|-------------|------|
 | **Node.js** | JavaScript runtime for building scalable network applications | ![Node.js](https://nodejs.org/favicon.ico) |
-| **Express.js** | Web application framework for Node.js | ![Express.js](https://expressjs.com/favicon.ico) |
 | **MongoDB** | NoSQL database for storing data | ![MongoDB](https://www.mongodb.com/favicon.ico) |
 | **Git** | Version control system for code management | ![Git](https://git-scm.com/favicon.ico) |
 | **VS Code** | Integrated development environment for editing code | ![VS Code](https://code.visualstudio.com/favicon.ico) |
@@ -14,8 +13,7 @@
 | **Facebook** | Link to our company Facebook page | ![Facebook](https://www.facebook.com/favicon.ico) |
 
 ## Purchase Link
-[Buy Now](https://www.facebook.com/Scincael)
-
+[Buy Now](https://www.facebook.com/sciencael/)
 # Tools Used
 
 ## Frontend Development
